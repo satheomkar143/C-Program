@@ -1,0 +1,32 @@
+1. - Half Faulty Calculator
+
+# 45 * 3 = 555, 56+9 = 77, 56/6 = 4
+
+# Design a calculator which will correctly solve all the problems except
+# the following ones:
+# 45 * 3 = 555, 56+9 = 77, 56/6 = 4
+# Your program should take operator  and the two numbers as input from the user
+# and then return the result
+
+__________________________________________________________________________________
+
+2.To get any character from user and print corresponding color name.(case sensitive and another program incasesensitive)
+___________________________________________________________________________________
+
+3. To check given date is valid or invalid.
+____________________________________________________________________________________
+
+4. To ask user that how many days in a leap year. 
+
+a. if user will get correct ans -
+
+      then print "You have cleared the first level" and ask again another que "What month has an extra day in leap year?" if user will get correct answer then display message "Congratulations !!You have cleared the test" otherwise "You have failed the test".
+
+b.otherwise print following msg-
+
+      "Your input is wrong, please try again."
+
+____________________________________________________________________________________
+
+5. If the three sides of a triangle are entered through the keyboard, write a program to check whether thr triangle is valid or not. The triangle is valid if the sum of two sides is greater than the largest of the three sides.
+
